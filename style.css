@@ -1,0 +1,26 @@
+header{
+    text-align: center;
+    background-color: lightcoral;
+    height: 100px;
+}
+
+nav a{
+    text-decoration: none;
+    border: blue 3px solid;
+    border-radius: 30px;
+    margin: 30px;
+    padding: 10px;
+    color: purple;
+}
+
+main h1{
+    text-align:center;
+    }
+    .cac{
+       font-size:20px;
+    }
+
+    .cyc{
+        font-size:20px;
+    }
+
